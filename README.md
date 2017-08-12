@@ -6,6 +6,8 @@ This is my simple resume about Scala and a little approach to realize some scala
   - Lesson 2 - If and match
   - Lesson 3 - Functions (def)
   - Lesson 4 - Rec and TailRec
+  - Lesson 5 - Array and List
+  - Lesson 6 - Utils using array and List
   
   
   
