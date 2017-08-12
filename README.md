@@ -2,7 +2,9 @@
 
 This is my simple resume about Scala and a little approach to realize some scala features.
 
-  - Lesson 1 - 
+  - Lesson 1 - Var and Values
+  - Lesson 2 - If and match
+  - Lesson 3 - 
   
 You can find more articles here:
   - [Scala School](http://twitter.github.io/scala_school/).
