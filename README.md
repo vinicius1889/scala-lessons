@@ -5,7 +5,7 @@ This is my simple resume about Scala and a little approach to realize some scala
   - Lesson 1 - Var and Values
   - Lesson 2 - If and match
   - Lesson 3 - Functions (def)
-  - Lesson 4 - 
+  - Lesson 4 - Rec and TailRec
   
   
   
