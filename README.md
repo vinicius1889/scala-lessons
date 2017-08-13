@@ -10,13 +10,9 @@ This is my simple resume about Scala and a little approach to realize some scala
   - Lesson 6 - Utils using array and List
   - Lesson 7 - Case class
   - Lesson 8 - Interator with file reader
+  - Lesson 9 - using Set
   
   
-  
-You can find more articles here:
-  - [Scala School](http://twitter.github.io/scala_school/).
-  
-
 # You must to...
 
   - You must install SBT (simple build tool) to run scala project
