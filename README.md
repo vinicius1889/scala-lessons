@@ -11,6 +11,9 @@ This is my simple resume about Scala and a little approach to realize some scala
   - Lesson 7 - Case class
   - Lesson 8 - Interator with file reader
   - Lesson 9 - using Set
+  - Lesson 10 - simple until and for
+  - Lesson 11 - partial function
+  - Lesson 12 - body function with Syntactic Sugar
   
   
 # You must to...
